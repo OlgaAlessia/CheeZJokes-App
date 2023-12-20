@@ -1,0 +1,20 @@
+@import url("https://use.fontawesome.com/releases/v5.3.1/css/all.css");
+
+.loading {
+  width: 4em;
+  margin: 200px auto 0 auto;
+  color: #03d1d8;
+}
+
+.JokeList-btn {
+  margin: 20px 5px 20px 10px;
+  font-size: 150%;
+  border-radius: 5px;
+  background-color: #03d1d8;
+  color: white;
+}
+
+.JokeList-getmore:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
